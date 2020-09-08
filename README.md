@@ -1,10 +1,10 @@
-#La Madeira
+# La Madeira
 
-##Objectif :
+## Objectif :
 
 Vous savez déjà produire des interfaces utilisateur web complexes et dynamiques mais pour l’instant vous ne savez pas encore créer un site dans sa globalité. Vous n’êtes pas capable de gérer une base de données, de gérer la sécurité du site ou encore de proposer à votre client un outil d’administration performant. Cela est tout à fait normal car vous ne connaissez encore aucun langage back-end. Heureusement WordPress est une solution clef en main que l’on appelle un Content Management System ou CMS, écrite en PHP, qui va nous permettre de remédier à ce problème tant que notre site sert à publier du contenu et ne doit pas connaître de trop grosses montées en charge.
 
-##Compétences évaluées :
+## Compétences évaluées :
 
  - Utiliser un hébergement web de type serveur mutualisé.
  - Comprendre le fonctionnement de l’hébergement web.
@@ -18,7 +18,7 @@ Vous savez déjà produire des interfaces utilisateur web complexes et dynamique
  - Créer un thème enfant.
  - Optimiser son référencement.
  
-##Sujet : Agence de voyage La Madeira
+## Sujet : Agence de voyage La Madeira
 
 La Madeira est une agence de voyage spécialisée dans les expériences d’exception. Elle ne propose que le meilleur du voyage dans les endroits les plus préservés. Confier ses vacances à La Madeira c’est l’assurance de vivre une expérience unique et inoubliable.
 
