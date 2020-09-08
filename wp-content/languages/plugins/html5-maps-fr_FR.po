@@ -1,0 +1,361 @@
+# Translation of Plugins - HTML5 Maps - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - HTML5 Maps - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-16 13:36:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - HTML5 Maps - Development (trunk)\n"
+
+#: freehtmlmap.php:57
+msgid "General settings"
+msgstr "R&eacute;glages g&eacute;n&eacute;aux"
+
+#: mapslist.php:79
+msgid "Name"
+msgstr "Nom"
+
+#: mapslist.php:80
+msgid "Map"
+msgstr "Carte"
+
+#: mapslist.php:82
+msgid "Edit"
+msgstr "Editer"
+
+#: mapslist.php:112
+msgid "Map settings"
+msgstr "Paramètres de la carte"
+
+#: mapslist.php:113
+msgid "Map detailed settings"
+msgstr "Réglages des paramètres de la carte"
+
+#: mapslist.php:114 freehtmlmap.php:59
+msgid "Preview"
+msgstr "Aperçu"
+
+#: mapslist.php:116
+msgid "Delete"
+msgstr "Supprimer"
+
+#. Plugin Name of the plugin
+#: mapslist.php:311 freehtmlmap.php:28
+msgid "HTML5 Maps"
+msgstr "Carte HTML5"
+
+#: mapslist.php:320
+msgid "New map name:"
+msgstr "Nom de la nouvelle carte :"
+
+#: mapslist.php:321
+msgid "New map"
+msgstr "Nouvelle carte"
+
+#: mapslist.php:330 pb.php:38 pb.php:158
+msgid "Please select the map"
+msgstr "Veuillez sélectionner une carte"
+
+#: mapslist.php:365
+msgid "Export/import Map Settings"
+msgstr "Exporter/Importer les paramètres de la carte"
+
+#: mapslist.php:366
+msgid "To export please select a checkbox of one or more maps, and press Export button"
+msgstr "Pour exporter une carte, veuillez sélectionner une ou plusieurs cartes en cochant les cases, et appuyez sur le bouton Exporter"
+
+#: mapslist.php:367
+msgid "Export"
+msgstr "Exporter"
+
+#: mapslist.php:368
+msgid "Import"
+msgstr "Importer"
+
+#: editstatesconfig.php:66
+msgid "Configuration of Map Areas"
+msgstr "Configuration des zones de la carte"
+
+#: editstatesconfig.php:225
+msgid "This tab allows you to add the area-specific information and adjust colors of individual area on the map."
+msgstr "Cette section vous permet d'ajouter les informations spécifiques à la région et d'adapter des couleurs prédéfinies aux différentes zone sur la carte."
+
+#: editstatesconfig.php:226
+msgid "* The term \"area\" means one of the following: region, state, country, province, county or district, depending on the particular plugin."
+msgstr "* Le terme «zone» désigne un des éléments suivants: région, état, pays, province, comté ou de district, selon le plugin."
+
+#: editstatesconfig.php:231
+msgid "Select an area"
+msgstr "Sélectionner une zone"
+
+#: editstatesconfig.php:279
+msgid "Map area"
+msgstr "Zone de la carte"
+
+#: editstatesconfig.php:282
+msgid "Name:"
+msgstr "Nom :"
+
+#: editstatesconfig.php:283
+msgid "Name of Area"
+msgstr "Nom de la zone"
+
+#: editstatesconfig.php:286
+msgid "Shortname:"
+msgstr "Abréviation ou initiale :"
+
+#: editstatesconfig.php:287
+msgid "Shortname of Area"
+msgstr "Abréviation ou initiale de la zone"
+
+#: editstatesconfig.php:290
+msgid "What to do when the area is clicked:"
+msgstr "Que voulez vous faire quand on clique sur une zone ?"
+
+#: editstatesconfig.php:291
+msgid "Nothing"
+msgstr "Rien"
+
+#: editstatesconfig.php:291
+msgid "Do not react on mouse clicks"
+msgstr "Ne pas réagir aux clics de souris"
+
+#: editstatesconfig.php:292
+msgid "Show popup balloon on the map"
+msgstr "Afficher la popup sur la carte"
+
+#: editstatesconfig.php:292
+msgid "Display a popup balloon with the specified information"
+msgstr "Afficher une infobulle avec les informations spécifiées"
+
+#: editstatesconfig.php:293
+msgid "Open a URL"
+msgstr "Ouvrir une URL (lien)"
+
+#: editstatesconfig.php:293
+msgid "A click on this area opens a specified URL"
+msgstr "Un clic sur cette zone ouvre une page spécifique"
+
+#: editstatesconfig.php:294
+msgid "Show more info"
+msgstr "Voir plus d'info"
+
+#: editstatesconfig.php:294
+msgid "Displays a side-panel with additional information (contacts, addresses etc.)"
+msgstr "Affiche un panneau latéral avec des informations supplémentaires (contacts, adresses, etc.)"
+
+#: editstatesconfig.php:296
+msgid "URL:"
+msgstr "URL :"
+
+#: editstatesconfig.php:297
+msgid "The landing page URL"
+msgstr "La page URL de destination "
+
+#: editstatesconfig.php:300
+msgid "Description:"
+msgstr "Description :"
+
+#: editstatesconfig.php:300
+msgid "The description is displayed to the right of the map and contains contacts or some other additional information"
+msgstr "La description est affichée à droite de la carte et contient des contacts ou d'autres informations supplémentaires"
+
+#: editstatesconfig.php:304
+msgid "Info for popup balloon:"
+msgstr "Info pour la popup (bulle)"
+
+#: editstatesconfig.php:304
+msgid "Info for popup balloon"
+msgstr "Info pour la popup (bulle)"
+
+#: editstatesconfig.php:309
+msgid "Area color:"
+msgstr "Couleur de la zone :"
+
+#: editstatesconfig.php:310
+msgid "The color of an area."
+msgstr "La couleur d'une zone."
+
+#: editstatesconfig.php:311 editstatesconfig.php:315
+msgid "Apply to all areas"
+msgstr "Appliquer à toutes les zones"
+
+#: editstatesconfig.php:313
+msgid "Area hover color:"
+msgstr "Couleur de la zone survolée :"
+
+#: editstatesconfig.php:314
+msgid "The color of an area when the mouse cursor is over it."
+msgstr "La couleur de la zone au passage de la souris"
+
+#: editstatesconfig.php:322
+msgid "Image URL:"
+msgstr "URL de l'image :"
+
+#: editstatesconfig.php:324
+msgid "clear"
+msgstr "Actualiser"
+
+#: editstatesconfig.php:325
+msgid "The path to file of the image to display in a popup"
+msgstr "Le chemin du fichier image qui s'affichera dans la popup (bulle)"
+
+#: editstatesconfig.php:335 editmainconfig.php:151
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: editmainconfig.php:19
+msgid "HTML5 Map Config"
+msgstr "Configuration de la Carte HTML5"
+
+#: editstatesconfig.php:212 editmainconfig.php:72 freehtmlmap.php:89
+msgid "Map:"
+msgstr "Carte :"
+
+#: editstatesconfig.php:218 editmainconfig.php:78 freehtmlmap.php:95
+msgid "The map"
+msgstr "La carte "
+
+#: editmainconfig.php:129
+msgid "Resource"
+msgstr "Ressource"
+
+#: editmainconfig.php:131
+msgid "Path to map data file:"
+msgstr "Chemin d'accès aux fichiers de données de la carte :"
+
+#: editmainconfig.php:135
+msgid "data file on html5maps.com"
+msgstr "Fichier de données sur html5maps.com"
+
+#: editmainconfig.php:135 editmainconfig.php:142
+msgid "Path to map data file"
+msgstr "Chemin d'accès aux fichiers de données de la carte "
+
+#: editmainconfig.php:142
+msgid "data file on your server"
+msgstr "Fichier de données sur votre serveur"
+
+#: editmainconfig.php:87
+msgid "Specify general settings of the map. To choose a color, click a color box, select the desired color in the color selection dialog and click anywhere outside the dialog to apply the chosen color."
+msgstr "Spécifiez les paramètres généraux de la carte. Pour choisir une couleur, cliquez sur la boîte de couleur, sélectionnez la couleur souhaitée dans la boîte de dialogue de sélection de couleur et cliquez n'importe où en dehors de la boîte de dialogue pour appliquer la couleur choisie."
+
+#: editmainconfig.php:90
+msgid "Map Settings"
+msgstr "Paramètres et réglages de la carte"
+
+#: editmainconfig.php:92
+msgid "Map name:"
+msgstr "Nom de la carte :"
+
+#: editmainconfig.php:93
+msgid "Name of the map"
+msgstr "Nom de la carte"
+
+#: editmainconfig.php:96
+msgid "Borders Color:"
+msgstr "Couleur de bordure :"
+
+#: editmainconfig.php:97
+msgid "The color of borders on the map"
+msgstr "La couleur de la bordure de la carte"
+
+#: editmainconfig.php:100
+msgid "Responsive layout:"
+msgstr "Mise en page Responsive (adaptative) :"
+
+#: editmainconfig.php:101
+msgid "Disabled:"
+msgstr "Désactivé :"
+
+#: editmainconfig.php:102
+msgid "Enabled:"
+msgstr "Activé :"
+
+#: editmainconfig.php:103
+msgid "Type of the layout"
+msgstr "Mise en page (disposition)"
+
+#: editmainconfig.php:106
+msgid "Map width:"
+msgstr "Largeur de la carte :"
+
+#: editmainconfig.php:107
+msgid "The width of the map"
+msgstr "La largeur de la page "
+
+#: editmainconfig.php:110
+msgid "Map height:"
+msgstr "Hauteur de la carte :"
+
+#: editmainconfig.php:111
+msgid "The height of the map"
+msgstr "La hauteur de la carte"
+
+#: editmainconfig.php:114
+msgid "Max width:"
+msgstr "Largeur maximum :"
+
+#: editmainconfig.php:115
+msgid "The max width of the map"
+msgstr "La largeur maximum de la carte"
+
+#: editmainconfig.php:121
+msgid "Content Info"
+msgstr "Information sur le contenu"
+
+#: editmainconfig.php:122
+msgid "Additional Info Area:"
+msgstr "Informations supplémentaires d'une zone"
+
+#: editmainconfig.php:123
+msgid "At right:"
+msgstr "A droite :"
+
+#: editmainconfig.php:124
+msgid "At bottom:"
+msgstr "En bas :"
+
+#: editmainconfig.php:125
+msgid "Where to place an additional information about state"
+msgstr "Où placer un des renseignements supplémentaires à propos d'un état"
+
+#. Description of the plugin
+msgid "High-quality map plugin for WordPress. The map depicts regions (states, provinces, counties etc.) and features color, landing page and popup customization."
+msgstr "Carte de haute qualité comprenant le plugin pour WordPress. La carte indique les régions (états, provinces, comtés, etc.) avec possibilité de changer la couleur, personnalisation de la popup avec lien de destination."
+
+#. Author of the plugin
+msgid "Fla-shop.com"
+msgstr "Fla-shop.com"
+
+#: freehtmlmap.php:30
+msgid "Maps"
+msgstr "Cartes"
+
+#: freehtmlmap.php:32
+msgid "Main settings"
+msgstr "Principaux paramètres"
+
+#: freehtmlmap.php:33 freehtmlmap.php:58
+msgid "Detailed settings"
+msgstr "Paramètres en détails"
+
+#: freehtmlmap.php:34 freehtmlmap.php:77
+msgid "Map Preview"
+msgstr "Aperçu de la carte"
+
+#: freehtmlmap.php:108
+msgid "Use shortcode %s for install this map"
+msgstr "Utilisez un code court % s pour installer cette carte"
+
+#: freehtmlmap.php:267
+msgid "Settings"
+msgstr "Paramètres (Réglages)"
+
+#: freehtmlmap.php:361
+msgid "Settings file not found for map of %s"
+msgstr "Paramètres Fichier introuvables pour la carte de % s"
